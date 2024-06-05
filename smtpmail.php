@@ -1,6 +1,5 @@
 <?php 
                      function mailgonder(){
-
                                      // PHPMailer dosyamızı çağırıyoruz  
                                         include "PHPMailer/inc/class.phpmailer.php";
                                      $mail = new PHPMailer();   
